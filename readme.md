@@ -12,7 +12,7 @@ https://www.elastic.co/guide/en/beats/winlogbeat/master/winlogbeat-reference-yml
 
 ### Install Atomic Red Team
 ```powershell
-Install-Module -Name invoke-atomicredteam.powershell-yaml -Scope CurrentUser
+Install-Module -Name invoke-atomicredteam,powershell-yaml -Scope CurrentUser
 ```
  #### If error:
  ```powershell
