@@ -42,4 +42,5 @@ Print schema: sysmon64 -s
 Uninstall: sysmon64 -u [force]
  
 https://www.elastic.co/guide/en/beats/winlogbeat/8.2/winlogbeat-installation-configuration.html
+
 https://github.com/SwiftOnSecurity/sysmon-config
