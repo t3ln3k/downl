@@ -32,7 +32,14 @@ Usage
 Common usage featuring simple command-line options to install and uninstall Sysmon, as well as to check and modify its configuration:
 
 Install: sysmon64 -i [<configfile>]
+
 Update configuration: sysmon64 -c [<configfile>]
+
 Install event manifest: sysmon64 -m
+
 Print schema: sysmon64 -s
+
 Uninstall: sysmon64 -u [force]
+ 
+https://www.elastic.co/guide/en/beats/winlogbeat/8.2/winlogbeat-installation-configuration.html
+https://github.com/SwiftOnSecurity/sysmon-config
